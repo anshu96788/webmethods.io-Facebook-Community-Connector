@@ -1,5 +1,5 @@
 # webmethods.io-Facebook-Community-Connector
-This is a facebook connector to do various operation on a facebook page using [facebook GraphAPI](https://developers.facebook.com/docs/graph-api/).
+This is a facebook connector to do various operation on a facebook page using [Facebook GraphAPI](https://developers.facebook.com/docs/graph-api/).
 The following actions are supported:
 
 1. Create a new alburm on a specific page.
