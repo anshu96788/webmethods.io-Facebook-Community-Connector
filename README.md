@@ -65,7 +65,7 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/SoftwareAG/webmethods-microservicesruntime-samples/blob/master/LICENSE)file for details
 
 ## Acknowledgments
 
